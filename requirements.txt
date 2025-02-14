@@ -6,6 +6,7 @@ optuna
 pandas
 python-dateutil
 pytz
+seaborn
 scikit-learn
 scipy
 six
